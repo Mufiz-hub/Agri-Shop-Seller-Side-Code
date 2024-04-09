@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "559489862683",
+    "project_id": "agri-shop-6c55c",
+    "storage_bucket": "agri-shop-6c55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559489862683:android:3ac02ad4dc92444bbd7cbe",
+        "android_client_info": {
+          "package_name": "com.example.project_final_year"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2aAI-v-t77-9Gd6-8uSCCWRhFx0StnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559489862683:android:68e99cb3d94d9d7fbd7cbe",
+        "android_client_info": {
+          "package_name": "com.example.project_final_year_seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2aAI-v-t77-9Gd6-8uSCCWRhFx0StnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559489862683:android:1904cd58baab6ac9bd7cbe",
+        "android_client_info": {
+          "package_name": "com.example.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj2aAI-v-t77-9Gd6-8uSCCWRhFx0StnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
